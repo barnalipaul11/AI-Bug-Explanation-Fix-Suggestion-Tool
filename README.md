@@ -160,4 +160,3 @@ You will get:
 <!-- end list -->
 
 ```
-```
