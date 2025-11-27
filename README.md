@@ -1,4 +1,4 @@
-````markdown
+
 # 🐞 AI Bug Explanation Dashboard
 
 A full-stack tool that helps developers understand complex error logs and GitHub issues.  
@@ -14,12 +14,12 @@ The system fetches real issues directly from GitHub and uses **Google Gemini AI*
 
 ## 🚀 Features
 
-- 🔗 **GitHub Issue Fetching** — Enter Owner, Repo, Issue Number
-- 🤖 **AI Bug Analysis** using Google Gemini API
-- 📌 **Severity, Summary & Fix Suggestions**
-- 📚 **Auto Documentation Links**
-- 💡 **Copy Code Snippets**
-- 🎨 **Modern Dark UI** using Tailwind CSS
+- **GitHub Issue Fetching** — Enter Owner, Repo, Issue Number
+- **AI Bug Analysis** using Google Gemini API
+- **Severity, Summary & Fix Suggestions**
+- **Auto Documentation Links**
+- **Copy Code Snippets**
+- **Modern Dark UI** using Tailwind CSS
 
 ---
 
@@ -27,7 +27,7 @@ The system fetches real issues directly from GitHub and uses **Google Gemini AI*
 
 Make sure you have the following installed:
 
-### ✔ System Requirements
+### System Requirements
 - **Java 17+**
 - **Node.js v16+**
 - **npm**
@@ -159,4 +159,3 @@ You will get:
 
 <!-- end list -->
 
-```
