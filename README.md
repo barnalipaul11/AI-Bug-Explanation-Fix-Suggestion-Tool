@@ -81,7 +81,7 @@ If successful, backend runs on:
 
 -----
 
-# 🎨 Frontend Setup (React + Tailwind)
+# Frontend Setup (React + Tailwind)
 
 ### 1️⃣ Navigate to frontend folder
 
